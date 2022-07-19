@@ -46,7 +46,7 @@ subtitle: Journals, conferences and technical reports.
 [**Feature Re-Learning with Data Augmentation for Video Relevance Prediction**](https://dx.doi.org/10.1109/TKDE.2019.2947442). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019. -->
 ## Conferences 
 * Jiazhen Liu, Xirong Li, Qijie Wei, Jie Xu, Dayong Ding.   
-[**Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching**](). ECCV, 2022.   
+[**Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching**](https://arxiv.org/pdf/2207.07932.pdf). ECCV, 2022.   
 * Fan Hu, Aozhu Chen, Ziyue Wang, Fangming Zhou, Xirong Li.   
 [**Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retrieval**](https://arxiv.org/pdf/2112.01832.pdf). ECCV, 2022.   
 * Ziyue Wang, Aozhu Chen, Fan Hu, Xirong Li.  
